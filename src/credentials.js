@@ -1,0 +1,2 @@
+export const GOOGLE_MAPS_API_KEY = 'AIzaSyD7zvy7VcdB-yOiSKCgb7l46IfKuV5BghA';
+export const MAPON_API_KEY = 'ed6dc5516f66531096e66628e84d10fd2371c87a';

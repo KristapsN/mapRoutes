@@ -1,0 +1,27 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(250, 250, 250, 1)
+}
+.logo{
+  margin: 26px;
+}
+.content-wrapper{
+  min-width: 600px;
+  background-color: white;
+  margin-bottom: 100px;
+}
+.input-wrapper{
+  margin: 40px 24px;
+}
+.footer{
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  background-color: #F4F4F4;
+}
+.button-wrapper{
+  margin: 10px;
+}
